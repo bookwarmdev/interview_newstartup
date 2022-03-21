@@ -1,8 +1,7 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:interview_newstartup/core/colors.dart';
-import 'package:interview_newstartup/core/styles.dart';
+import 'package:interview_newstartup/core/core.dart'; 
 import 'package:interview_newstartup/data/scources/local_source/storage.dart';
 import 'package:interview_newstartup/presentation/provider/provider.dart';
 import 'package:interview_newstartup/presentation/routers/router.gr.dart';
